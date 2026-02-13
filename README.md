@@ -19,9 +19,17 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 | CVE ID | Type | CVSS | PoC Link |
 |--------|------|------|----------|
-| CVE-2025-6019 | Linux Local Privilege Escalation (LPE) | 7.0 | [Link](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC) |
+| CVE-2025-6019 | Linux Local Privilege Escalation ![LPE](https://img.shields.io/badge/LPE-high-red) | 7.0 | [Link](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC) |
 | CVE-2025-55182 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/freeqaz/react2shell) |
 | CVE-2025-49132 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/Pwndalf/CVE-2025-49132-PoC) |
+| CVE-2025-2304 | Privilege Escalation ![PE](https://img.shields.io/badge/PE-critical-red) | 9.4 | [Link](https://github.com/lil0xplorer/CVE-2025-2304-PoC) |
+
+
+### 2024
+
+| CVE ID | Type | CVSS | PoC Link |
+|--------|------|------|----------|
+| CVE-2024-46987 | Path Traversal ![LFI](https://img.shields.io/badge/LFI-high-red) | 7.7 | [Link](https://github.com/owen2345/camaleon-cms/security/advisories/GHSA-cp65-5m9r-vc2c) |
 
 
 ## 🔍 How to Use
