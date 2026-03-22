@@ -19,6 +19,7 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 | CVE ID | Type | CVSS | PoC Link |
 |--------|------|------|----------|
+| CVE-2025-55182 | Authenticated RCE | N/A | [Link](https://github.com/gunzf0x/CVE-2025-60787) |
 | CVE-2025-55182 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/freeqaz/react2shell) |
 | CVE-2025-49132 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/Pwndalf/CVE-2025-49132-PoC) |
 | CVE-2025-47812 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/0xcan1337/CVE-2025-47812-poC) |
@@ -31,8 +32,8 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 | CVE ID | Type | CVSS | PoC Link |
 |--------|------|------|----------|
+| CVE-2024-46987 | SQL Injection ![SQLi](https://img.shields.io/badge/SQLi-critical-red) | 9.9 | VULN URL: http://IP/zm/index.php?view=request&request=event&action=removetag&tid=1, VULN PAR: tid |
 | CVE-2024-46987 | Path Traversal ![LFI](https://img.shields.io/badge/LFI-high-red) | 7.7 | [Link](https://github.com/owen2345/camaleon-cms/security/advisories/GHSA-cp65-5m9r-vc2c) |
-
 
 ## 🔍 How to Use
 
