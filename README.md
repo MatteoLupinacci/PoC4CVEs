@@ -15,6 +15,14 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 ## 📋 CVE List
 
+### 2026
+
+| CVE ID | Type | CVSS | PoC Link |
+|--------|------|------|----------|
+| CVE-2026-41651 | Linux Local Privilege Escalation ![LPE](https://img.shields.io/badge/LPE-high-red) | N/A | [Link](https://github.com/Vozec/CVE-2026-41651) |
+| CVE-2026-39987 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 9.8 | [Link](https://github.com/M3PH1569/CVE-2026-39987-POC) |
+
+
 ### 2025
 
 | CVE ID | Type | CVSS | PoC Link |
