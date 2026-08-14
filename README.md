@@ -29,10 +29,13 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 | CVE ID | Type | CVSS | PoC Link |
 |--------|------|------|----------|
-| CVE-2025-55182 | Authenticated RCE | N/A | [Link](https://github.com/gunzf0x/CVE-2025-60787) |
+| CVE-2025-59528 | Authenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | N/A | [Link]([https://github.com/gunzf0x/CVE-2025-60787](https://github.com/maradonam18/-CVE-2025-59528-PoC)) |
+| CVE-2025-58434 | Passowrd-Reset | N/A | [Link]([https://github.com/gunzf0x/CVE-2025-60787](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)) |
+| CVE-2025-55182 | Authenticated ![RCE](https://img.shields.io/badge/RCE-high-red) | N/A | [Link](https://github.com/gunzf0x/CVE-2025-60787) |
 | CVE-2025-55182 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/freeqaz/react2shell) |
 | CVE-2025-49132 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/Pwndalf/CVE-2025-49132-PoC) |
 | CVE-2025-47812 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/0xcan1337/CVE-2025-47812-poC) |
+| CVE-2025-8110 | ![RCE](https://img.shields.io/badge/RCE-high-red) | 8.8 | [Link](https://github.com/AdityaInnovates/CVE-2025-8110-Gogs-RCE-Exploit) |
 | CVE-2025-6019 | Linux Local Privilege Escalation ![LPE](https://img.shields.io/badge/LPE-high-red) | 7.0 | [Link](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC) |
 | CVE-2025-4138 | Arbitrary File Write ![AFW](https://img.shields.io/badge/AFW-high-red) | 7.5 | [Link](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC) |
 | CVE-2025-2304 | Privilege Escalation ![PE](https://img.shields.io/badge/PE-critical-red) | 9.4 | [Link](https://github.com/lil0xplorer/CVE-2025-2304-PoC) |
