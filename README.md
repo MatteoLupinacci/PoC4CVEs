@@ -27,10 +27,11 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 
 ### 2025
 
-| CVE ID | Type | CVSS | PoC Link |
+| CVE ID | Type | CVSS | PoC Link | 
 |--------|------|------|----------|
 | CVE-2025-59528 | Authenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | N/A | [Link](https://github.com/maradonam18/-CVE-2025-59528-PoC) |
 | CVE-2025-58434 | Passowrd-Reset | N/A | [Link](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset) |
+| CVE-2025-57819 | Unauthenticated ![SQLi](https://img.shields.io/badge/SQLi-critical-red) | 9.8 | [Link](https://github.com/b4sh2/CVE-2025-57819-poc) |
 | CVE-2025-55182 | Authenticated ![RCE](https://img.shields.io/badge/RCE-high-red) | N/A | [Link](https://github.com/gunzf0x/CVE-2025-60787) |
 | CVE-2025-55182 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/freeqaz/react2shell) |
 | CVE-2025-49132 | Unauthenticated ![RCE](https://img.shields.io/badge/RCE-critical-red) | 10.0 | [Link](https://github.com/Pwndalf/CVE-2025-49132-PoC) |
