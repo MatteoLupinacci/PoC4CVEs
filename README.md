@@ -48,6 +48,7 @@ A curated list of working Proof-of-Concept (PoC) exploits for publicly disclosed
 |--------|------|------|----------|
 | CVE-2024-46987 | SQL Injection ![SQLi](https://img.shields.io/badge/SQLi-critical-red) | 9.9 | VULN URL: http://IP/zm/index.php?view=request&request=event&action=removetag&tid=1, VULN PAR: tid |
 | CVE-2024-46987 | Path Traversal ![LFI](https://img.shields.io/badge/LFI-high-red) | 7.7 | [Link](https://github.com/owen2345/camaleon-cms/security/advisories/GHSA-cp65-5m9r-vc2c) |
+| CVE-2024-37054 | Deserialization to RCE | 8.8 | [Link](https://github.com/ben-slates/CVE-2024-37054) |
 
 ## 🔍 How to Use
 
